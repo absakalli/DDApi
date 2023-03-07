@@ -4,10 +4,10 @@ using TodoApi.Models;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
-builder.Services.AddDbContext<PageContext>(opt =>
+builder.Services.AddDbContext<ElementContext>(opt =>
     opt.UseSqlServer(builder.Configuration.GetConnectionString("ElementConnectionString")));
 builder.Services.AddDbContext<PageContext>(opt =>
-    opt.UseSqlServer(builder.Configuration.GetConnectionString("ElementConnectionString")));
+    opt.UseSqlServer(builder.Configuration.GetConnectionString("PageConnectionString")));
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 

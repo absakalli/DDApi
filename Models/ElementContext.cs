@@ -2,12 +2,12 @@ using Microsoft.EntityFrameworkCore;
 
 namespace TodoApi.Models;
 
-public class PageContext : DbContext
+public class ElementContext : DbContext
 {
-    public PageContext(DbContextOptions<PageContext> options)
+    public ElementContext(DbContextOptions<ElementContext> options)
         : base(options)
     {
     }
 
-    public DbSet<Page> Elements { get; set; } = null!;
+    public DbSet<Element> Elements { get; set; } = null!;
 }
