@@ -9,5 +9,5 @@ public class PageContext : DbContext
     {
     }
 
-    public DbSet<Page> Elements { get; set; } = null!;
+    public DbSet<Page> Pages { get; set; } = null!;
 }

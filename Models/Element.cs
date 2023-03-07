@@ -1,6 +1,6 @@
 namespace TodoApi.Models;
 
-public class Element
+public class Page
 {
     public Guid id { get; set; }
     public string tip { get; set; }
