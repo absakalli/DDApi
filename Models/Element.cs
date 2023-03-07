@@ -3,6 +3,7 @@ namespace TodoApi.Models;
 public class Element
 {
     public Guid id { get; set; }
+    public Guid pageId { get; set; }
     public string tip { get; set; }
     public short top { get; set; }
     public short left { get; set; }
