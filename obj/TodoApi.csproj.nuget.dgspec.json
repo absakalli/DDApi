@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bugra.sakalli\\DDApi\\TodoApi.csproj": {}
+    "C:\\Users\\bugra.sakalli\\Desktop\\Angular Project\\DDApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bugra.sakalli\\DDApi\\TodoApi.csproj": {
+    "C:\\Users\\bugra.sakalli\\Desktop\\Angular Project\\DDApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bugra.sakalli\\DDApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\bugra.sakalli\\Desktop\\Angular Project\\DDApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\bugra.sakalli\\DDApi\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\bugra.sakalli\\Desktop\\Angular Project\\DDApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\bugra.sakalli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bugra.sakalli\\DDApi\\obj\\",
+        "outputPath": "C:\\Users\\bugra.sakalli\\Desktop\\Angular Project\\DDApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bugra.sakalli\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -84,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

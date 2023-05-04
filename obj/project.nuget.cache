@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MXDF8Xn+RdsZNp7HgW74f5h/U4ldkUC/jRDpmKRRpFmH6tpQfNY8s8MejcefTeWzAkwCwjYTk/eKX2E9+ZFErw==",
+  "dgSpecHash": "SV7TlkAbmPzi2tKM+bu5HdRDBlMZnLFjawKgNhWChejkDRf9GLxhi9WDj+E678rbdnTP/alYsxN030rW17ItGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bugra.sakalli\\DDApi\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\bugra.sakalli\\Desktop\\Angular Project\\DDApi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bugra.sakalli\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\bugra.sakalli\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
